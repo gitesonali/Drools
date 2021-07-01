@@ -1,0 +1,51 @@
+11:37:49.064 [main] INFO  c.c.eventrule.PCPEventApplication - Starting PCPEventApplication on DESKTOP-THANSBI with PID 15036 (C:\Users\admin\Downloads\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES\target\classes started by admin in C:\Users\admin\Downloads\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES) 
+11:37:49.068 [main] INFO  c.c.eventrule.PCPEventApplication - No active profile set, falling back to default profiles: default 
+11:37:51.893 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http) 
+11:37:51.980 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"] 
+11:37:52.013 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat] 
+11:37:52.014 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17] 
+11:37:52.334 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+11:37:52.335 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3162 ms 
+11:37:58.630 [main] ERROR c.crhc.eventrule.config.DroolConfig - error {} 
+11:38:03.389 [main] ERROR c.crhc.eventrule.config.DroolConfig - error {} 
+11:38:03.734 [main] WARN  o.s.w.s.r.ResourceHttpRequestHandler - Locations list is empty. No resources will be served unless a custom ResourceResolver is configured as an alternative to PathResourceResolver. 
+11:38:04.436 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"] 
+11:38:04.515 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '' 
+11:38:04.520 [main] INFO  c.c.eventrule.PCPEventApplication - Started PCPEventApplication in 16.197 seconds (JVM running for 17.545) 
+11:38:17.074 [http-nio-8082-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+11:38:17.074 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+11:38:17.126 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 52 ms 
+11:45:53.645 [main] INFO  c.c.eventrule.PCPEventApplication - Starting PCPEventApplication on DESKTOP-THANSBI with PID 17660 (C:\Users\admin\Downloads\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES\target\classes started by admin in C:\Users\admin\Downloads\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES) 
+11:45:53.656 [main] INFO  c.c.eventrule.PCPEventApplication - No active profile set, falling back to default profiles: default 
+11:45:56.254 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http) 
+11:45:56.294 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"] 
+11:45:56.337 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat] 
+11:45:56.338 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17] 
+11:45:56.648 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+11:45:56.648 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2882 ms 
+11:46:02.968 [main] ERROR c.crhc.eventrule.config.DroolConfig - error {} 
+11:46:07.317 [main] ERROR c.crhc.eventrule.config.DroolConfig - error {} 
+11:46:07.553 [main] WARN  o.s.w.s.r.ResourceHttpRequestHandler - Locations list is empty. No resources will be served unless a custom ResourceResolver is configured as an alternative to PathResourceResolver. 
+11:46:08.348 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"] 
+11:46:08.424 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '' 
+11:46:08.430 [main] INFO  c.c.eventrule.PCPEventApplication - Started PCPEventApplication in 15.406 seconds (JVM running for 16.549) 
+11:46:12.857 [http-nio-8082-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+11:46:12.857 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+11:46:12.869 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 11 ms 
+11:48:43.605 [main] INFO  c.c.eventrule.PCPEventApplication - Starting PCPEventApplication on DESKTOP-THANSBI with PID 17304 (C:\Users\admin\Downloads\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES\target\classes started by admin in C:\Users\admin\Downloads\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES) 
+11:48:43.620 [main] INFO  c.c.eventrule.PCPEventApplication - No active profile set, falling back to default profiles: default 
+11:48:46.518 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http) 
+11:48:46.560 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"] 
+11:48:46.599 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat] 
+11:48:46.600 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17] 
+11:48:47.012 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+11:48:47.013 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3285 ms 
+11:48:51.526 [main] ERROR c.crhc.eventrule.config.DroolConfig - error {} 
+11:48:56.179 [main] ERROR c.crhc.eventrule.config.DroolConfig - error {} 
+11:48:56.472 [main] WARN  o.s.w.s.r.ResourceHttpRequestHandler - Locations list is empty. No resources will be served unless a custom ResourceResolver is configured as an alternative to PathResourceResolver. 
+11:48:57.269 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"] 
+11:48:57.361 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '' 
+11:48:57.366 [main] INFO  c.c.eventrule.PCPEventApplication - Started PCPEventApplication in 15.007 seconds (JVM running for 16.154) 
+11:49:01.346 [http-nio-8082-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+11:49:01.346 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+11:49:01.356 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 10 ms 

@@ -1,0 +1,17 @@
+11:45:52.703 [main] INFO  c.c.eventrule.PCPEventApplication - Starting PCPEventApplication on DESKTOP-THANSBI with PID 4148 (C:\Users\admin\Downloads\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES\target\classes started by admin in C:\Users\admin\Downloads\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES\PCPEVENTRULES) 
+11:45:52.709 [main] INFO  c.c.eventrule.PCPEventApplication - No active profile set, falling back to default profiles: default 
+11:45:56.236 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8082 (http) 
+11:45:56.345 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"] 
+11:45:56.377 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat] 
+11:45:56.377 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17] 
+11:45:56.854 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+11:45:56.855 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4007 ms 
+11:46:02.273 [main] ERROR c.crhc.eventrule.config.DroolConfig - error {} 
+11:46:08.437 [main] ERROR c.crhc.eventrule.config.DroolConfig - error {} 
+11:46:08.829 [main] WARN  o.s.w.s.r.ResourceHttpRequestHandler - Locations list is empty. No resources will be served unless a custom ResourceResolver is configured as an alternative to PathResourceResolver. 
+11:46:09.771 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"] 
+11:46:10.123 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8082 (http) with context path '' 
+11:46:10.131 [main] INFO  c.c.eventrule.PCPEventApplication - Started PCPEventApplication in 18.282 seconds (JVM running for 19.663) 
+11:46:33.131 [http-nio-8082-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+11:46:33.131 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+11:46:33.147 [http-nio-8082-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 15 ms 
